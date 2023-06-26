@@ -4,7 +4,7 @@
             <a href='/'>Посты</a>
         </li>
         <li>
-            <a href='/fots'>Фото</a>
+            <a href='/photos'>Фото</a>
         </li>
         <li>
             <a href='/tasks'>Задачи</a>
