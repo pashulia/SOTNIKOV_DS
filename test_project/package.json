@@ -10,8 +10,10 @@
     "axios": "^1.4.0",
     "bootstrap": "^5.3.0",
     "core-js": "^3.8.3",
+    "usemodal-vue3": "^0.3.7",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vue-simple-alert": "^1.1.1",
     "vuex": "^4.0.0"
   },
   "devDependencies": {

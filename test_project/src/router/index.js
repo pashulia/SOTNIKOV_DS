@@ -3,6 +3,7 @@ import {
   createWebHistory,
 } from 'vue-router';
 
+import AlbumPage from '@/pages/AlbumPage';
 import Main from '@/pages/Main';
 import PhotosPage from '@/pages/PhotosPage';
 
@@ -16,6 +17,11 @@ const routes = [
     path: '/photos',
     name: 'photos',
     component: PhotosPage
+  },
+  {
+    path: '/photos/album/:id',
+    name: 'album',
+    component: AlbumPage
   },
 ]
 
